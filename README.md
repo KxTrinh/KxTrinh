@@ -1,5 +1,12 @@
 <img src="/header.png">
 
+<ul>
+  <li>🔭 I’m currently working on a web game called Battle Monster</li>
+  <li>🌱 I’m currently learning React, Redux, and Typescript</li>
+  <li>💬 Ask me about my next project</li>
+  <li>📫 How to reach me: ...</li>
+</ul>
+
 
 <!--
 **KxTrinh/KxTrinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
