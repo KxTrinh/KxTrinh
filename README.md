@@ -1,10 +1,9 @@
 <img src="/header.png">
 
 <ul>
-  <li>🔭 I’m currently working on a web game called Battle Monster</li>
-  <li>🌱 I’m currently learning React, Redux, and Typescript</li>
-  <li>💬 Ask me about my next project</li>
-  <li>📫 How to reach me: ...</li>
+  <li>🌱 I’m currently learning React & RSpec</li>
+  <li>⚡ Fun fact: Probably having a headache doing katas!</li>
+  <li>📫 How to reach me: https://www.linkedin.com/in/kévin-trinh/ </li>
 </ul>
 
 
